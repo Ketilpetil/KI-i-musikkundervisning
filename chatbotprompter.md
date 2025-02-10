@@ -1,7 +1,7 @@
 
 
 # KI i musikkundervisning
-v/Ketil Vestrum Einarsen
+Ketil Vestrum Einarsen
 
 ## ASCII-prompter for chatGPT
 
