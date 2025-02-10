@@ -38,7 +38,7 @@ Jeg vil gjerne se et ASCII-diagram omtrent slik:
        E |-------------------------------------|  (Linje 1)
             (Hjelpelinje for C under systemet)
             ---- o ----  <--  C
-</code></pre>
+</div>
 
 
 
