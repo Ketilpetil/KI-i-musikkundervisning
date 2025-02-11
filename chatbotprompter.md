@@ -19,25 +19,23 @@ Vil du generere et «ASCII-bilde» av noter, piano roll, pianotangenter eller ry
   <pre><code id="myCode1">
 Hei, jeg lurer på....... 
 
-Jeg vil at du viser meg dette på et ASCII-notesystem (treble clef):
-1) Type notasjon: [Akkord / Melodi]
-2) Toner: [for eksempel C, E, G, etc.]
-3) Hvilken oktav / hjelpelinjer: [for eksempel "mellom C og høy E"]
-4) Eventuell rytme eller varighet: [f.eks. helnote, to takter, etc.]
+Jeg vil at du viser meg dette på et ASCII-notesystem, som dette: 
 
-Jeg vil gjerne se et ASCII-diagram omtrent slik:
 
-       F |-------------------------------------|  (Linje 5)
-         |                                     |
-       D |-------------------------------------|  (Linje 4)
-         |                                     |
-       B |-------------------------------------|  (Linje 3)
-         |                                     |
-       G |-------------------------------------|  (Linje 2)
-         |                                     |
-       E |-------------------------------------|  (Linje 1)
-            (Hjelpelinje for C under systemet)
-            ---- o ----  <--  C
+                (Treble Clef Staff)
+      ┌─────────────────────────────────┐
+(Line 5)  F ─────────────────────────────
+(Line 4)  D ─────────────────────────────
+(Line 3)  B ────────────●───────────────   (● markerer G)
+(Line 2)  G ─────────────────────────────
+(Line 1)  E ────────────●───────────────   (● markerer E)
+      └─────────────────────────────────┘
+
+Ekstralinje (Ledger line) under notestaven:
+           ───── ● ─────  
+                  ^
+                  C  (Middle C)
+
 </div>
 
 
