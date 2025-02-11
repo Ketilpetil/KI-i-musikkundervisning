@@ -118,96 +118,22 @@ Dette tsster  jeg nå sammen med noen interesserte elever. Det ser lovende ut, j
 Kort om musescore. Dersom elevene mine kunne hatt meningsfulle diskusjoner med ChatGPT om det de skriver i dette programmet, tror jeg de kunne utviklet seg. Tidligere kunne ChatGPT lese og eksporter formater som man kunne eksportere fra Musescore. Dette kan chatGPT , per 11.02 ikke gjøre. 
 Men, det er mulig å eksportere/importere formater som chatGPT leser. Jeg har testet ut dette. Det fungerer bra, men løsningen er tungvint. Mange elever synes det er vanskelig å sette opp detsom skal til, og dette vil stjele fra undervisningstiden. 
 
+3. Er det noe ChatGPT er veldig god på i musikkfaget? 
+
+Programmering. Her er et eksempel på noe som CchatGPT genererte til musikkprogrammeringsprsåket Sonic Pi. Det er riktignok ikke en fantastisk låt. Men den gir oss noe som Suno ikke gjør, vi ser det so skjer mellom tekstprompt fra ChatGPT og lyden treffer ørene våre. Da kan vi som lærere kvalitetssikre det og elevene kan lære av det. 
+
+Den er trent på mye tekstm inkludering programmeringsspråk. Norge, i motsetning til mange andre land, har ikke satset på å gjøre programmering til et tverrfaglig disiplin. Det er matte som har fått jobben. Det er riktignok en del av kompetansemålene i musikk på ungdomsskolen. Og det kan absolutt forsvares å jobbe med ut i fra kompetansemål på musikklinja. Men, fagtrengsel setter effektivt en stopper for det. 
+Personlig skulle jeg sett at vi klarte få plass til dette i musikk. Grunnen til at jeg tenker det er at det er et problem med tjenester som suno. Vi vet ikke hva som skjer "mellom teksten som skrives og den ferdige låta". Jeg tror elevene våre lærer veldig lite av dette. De får ikke se prosessen, vi i får ikke innsyn i prosessen. Hverken metoder eller kilder er noe vi får tilgang på. 
+Men, jeg tror elevene våre kan lære mye av musikk og samtidig forstå og mestre KI-tjenster dersom de hadde lært seg programmering bedre. 
+
+
+(Technolåt)[https://github.com/Ketilpetil/KI_i_musikkundervisning/blob/main/Chatgpt_sonic_pi.md]
+
+avskutningsvis lurer jeg på to ting: 
+
+har dere noen spørsmål?
+har dere noen erfaringe dere vil dele? 
 
 
 
-
-
-
-# Welcome to Sonic Pi
-
-###############################################################################
-# Techno-inspirert låt i Sonic Pi
-# Forfatter: ChatGPT
-# Basert på ideer fra Sam Aarons metode med live-koding
-###############################################################################
-
-use_bpm 125  # Sett tempo/bpm for låten
-
-#######################
-# 1. Grunnleggende KICK
-#######################
-live_loop :kick do
-  sample :bd_tek, amp: 2  # Bruk en techno-aktig bassdrum
-  sleep 1  # 1 slag per kvart
-end
-
-################################
-# 2. Hi-hat og perkusjon (off-beat)
-################################
-live_loop :hihat do
-  sync :kick  # Synkroniser start med kick
-  sample :drum_cymbal_closed, amp: 1, rate: 1.5
-  sleep 0.5  # Spiller hver 8. del
-end
-
-################################
-# 3. Sub-bass (Synth)
-################################
-live_loop :bass do
-  sync :kick
-  use_synth :tb303  # Typisk syre/techno-synth
-  use_random_seed 2023  # For litt varierende basslinje
-  8.times do
-    play :e1, cutoff: rrand(70, 100), res: 0.9, release: 0.3, amp: 0.8
-    sleep 0.5
-  end
-end
-
-################################
-# 4. Acid-lignende melodi
-################################
-live_loop :acid_melody do
-  sync :kick
-  use_synth :tb303
-  use_random_seed 1234  # Endre tall for å få nytt mønster
-  16.times do
-    note = (scale :e2, :minor_pentatonic).choose
-    play note, release: 0.125, cutoff: rrand(70, 110), res: 0.9, amp: 0.6
-    sleep 0.25
-  end
-end
-
-################################
-# 5. Tekstur og effekter (Pad)
-################################
-live_loop :pad do
-  sync :kick
-  use_synth :prophet
-  with_fx :reverb, room: 0.8, mix: 0.5 do
-    play_chord chord(:e4, :minor), release: 4, cutoff: 80, amp: 0.3
-    sleep 8
-  end
-end
-
-################################
-# 6. Ekstra perk (klapp eller snare)
-################################
-live_loop :clap do
-  sync :kick
-  sleep 1  # Venter 1 takt før vi spiller klapp
-  sample :perc_snap2, amp: 1.5
-  sleep 1
-end
-
-################################
-# 7. Master FX
-################################
-# Et eksempel på hvordan du kan styre lydbildet
-live_loop :master_fx do
-  with_fx :lpf, cutoff: 120 do
-    sleep 8
-    # Du kan legge til kode her for å justere cutoff dynamisk
-  end
-end
 
