@@ -1,8 +1,10 @@
 # KI på Musikklinja
 
 ---
-Foredrag på Jessheim VGS, 12.02.2025. 
-Dere står fritt til å teste ut det jeg snakker om når jeg snakker. Klikk på lenkene og følg oppskriftene. 
+
+>Foredrag på Jessheim VGS, 12. februar 2025
+Dere er velkomne til å teste ut alt jeg demonstrerer underveis – klikk på lenkene og følg oppskriftene.
+Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting. 
 
 ## Om meg
 
@@ -11,7 +13,6 @@ Dere står fritt til å teste ut det jeg snakker om når jeg snakker. Klikk på 
 - Halvstudert "røver" i KI med videreutdanning i programmering og KI  
 - Teknologi- og musikkentusiast med interesse for å videreutvikle undervisningen  
 - Teknologioptimist, men kritisk til "Big Data"  
-- Bruker mac på dagjobb og Linux ellers
 
 ---
 
@@ -62,7 +63,9 @@ Dere står fritt til å teste ut det jeg snakker om når jeg snakker. Klikk på 
 ### ASCII-noter
 
 - **Bruksområde:** Praktisk for å vise hvordan en skala eller akkord ser ut med enkle ASCII-symboler.
-- **Utfordring:** ChatGPT (spesielt gratisversjonen) kan generere feil – men feilen blir en læringsmulighet.
+- **Utfordring:** ChatGPT (spesielt gratisversjonen) kan generere feil. Dette ble i praksis ubrukelig i undervisning. 
+- **Læringsutbytte:** Elevene fikk se begrensningene til ChatGPT. 
+
 
 #### Eksempel (kodeblokk):
 
