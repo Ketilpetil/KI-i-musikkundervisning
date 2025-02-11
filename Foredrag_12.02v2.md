@@ -2,8 +2,8 @@
 
 ---
 
->Foredrag på Jessheim VGS, 12. februar 2025
-Dere er velkomne til å teste ut alt jeg demonstrerer underveis – klikk på lenkene og følg oppskriftene.
+>Foredrag på Jessheim VGS, 12. februar 2025. 
+Test gjerne det jeg snakker om underveis – klikk på lenkene og følg oppskriftene.
 Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting. 
 
 ## Om meg
@@ -125,9 +125,6 @@ Kommentar:
   - Dynamisk feedback under komposisjonsprosesser.
 
 
-
-
-
-Spørsmål til dere:
+## S&S
 - Har dere noen spørsmål?
 - Har dere erfaringer dere vil dele?
