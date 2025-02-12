@@ -58,8 +58,7 @@ passord: 6875
 
 - **KI i praktiske fag på musikklinja:**  
   - Bruken er generelt lav sammenliknet med andre fag. Men KI brukes i forskjellige former: 
-    - **Stemseparasjon:** Fjerner vokal fra spor for å bruke originalmusikk til øving eller fremføring.  
-      *NB:* Finnes også som funksjon i programmer som Logic og FL Studio.
+    - **Stemseparasjon:** Elevene lager egne versjoner, for eksempel uten vokal, til øving eller fremføring. Noen elever bruker også dette til sampling. 
     - **Tekstskriving med ChatGPT:** Spesielt i komposisjonsoppgaver når tiden er knapp.
 
 ---
