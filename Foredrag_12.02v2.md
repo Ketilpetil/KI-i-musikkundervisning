@@ -89,7 +89,7 @@ Gå til [GPTs](https://chatgpt.com/gpts) for å finne ut mer om hvordan du kan l
 - **Læringsutbytte:** Elevene fikk se begrensningene til ChatGPT og de fikk muligens styrket digital kompetanse. 
 
 
-#### Eksempel (kodeblokk):
+#### Eksempel:
 
 ```plaintext
                 (Treble Clef Staff)
@@ -111,7 +111,7 @@ Ekstralinje (Ledger line) under notestaven:
 Kort om LilyPond: Et kraftig verktøy for notasjon i tekstformat.
 
 Eksempel:
-> "Vis meg noter for en Fiss-dorisk skala i LilyPond-format. Jeg vil ha selve koden jeg kan lime inn i [hacklily](https://www.hacklily.org)."
+``` "Vis meg noter for en Fiss-dorisk skala i LilyPond-format. Jeg vil ha selve koden jeg kan lime inn i [hacklily](https://www.hacklily.org)```
 
 Hvordan det fungerer:
 - ChatGPT genererer koden.
