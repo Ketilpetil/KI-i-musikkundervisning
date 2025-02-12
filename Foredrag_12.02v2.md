@@ -1,10 +1,33 @@
 # KI på Musikklinja
 
 ---
+<table style="border: 1px solid #ccc; border-collapse: collapse; width:100%;">
+  <tr>
+    <td style="padding: 10px; background-color: white;">
+      <strong>Foredrag: Jessheim VGS, 12.02.2025 – 25 minutter <br><br>
+Rom 3520 <br><br>
+1430 - 1455 <br>
+1500 - 1525<br>
+1530  - 1555<br><br>
 
->Foredrag på Jessheim VGS, 12. februar 2025. 
-Test gjerne det jeg snakker om underveis – klikk på lenkene og følg oppskriftene.
-På grunn av tidsbegrensninger har jeg valgt å snakke om noen erfaringer jeg har gjort med bruken av KI i musikklinjefag. 
+
+Internett:<br>
+viken-gjest med gjestebruker 23657740<br>
+passord: 6875
+ </strong>
+      <hr>
+      <strong>Tema:</strong> Praktiske erfaringer med KI i musikklinjefag.<br><br>
+      <strong>Eksperimenter underveis:</strong> Klikk på lenkene og følg oppskriftene.<br><br>
+    <br>
+      <strong>Mitt utgangspunkt:</strong> 
+
+  &bull; Hvis vi lærere vet hva vi trenger, kan utviklerne lage verktøy som fungerer i hverdagen.
+      
+  &bull; Elevene trenger å heve sin kompetanse i digitale ferdigheter.<br><br>
+
+  </tr>
+</table>
+
 
 ## Om meg
 
@@ -134,8 +157,9 @@ Kommentar:
   - Automatisert generering av noter.
   - Interaktive lydanalyser.
   - Dialog/feedback i skapende arbeid.
-  Tjenester må være gratis og tilgjengelige  for alle.
+  Tjenester må være gratis og tilgjengelige for alle.
   Tjenestene må forstå aktuelle filformater (som midi osv)
+
 
 
 ## S&S
