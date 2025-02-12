@@ -53,7 +53,7 @@ passord: 6875
 
 ---
 
-## Elevenes bruk av KI i i mine fage[^1]
+## Elevenes bruk av KI i i mine fag[^1]
 
 - **Generativ språkbasert KI:**  
   - De aller fleste bruker gratisversjonen av ChatGPT.  
