@@ -160,6 +160,8 @@ Kommentar:
 - Vi trenger verktøy som gir innsyn i kilder og metoder. 
 
 
+# **Vi er de som vet hva vi trenger. Utviklerne trenger denne informasjonen** 
+
 ## S&S
 - Har dere noen spørsmål?
 - Har dere erfaringer dere vil dele?
