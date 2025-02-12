@@ -43,8 +43,8 @@ passord: 6875
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
   - **Audio-/signalbasert KI**  
     *Eksempler:*  
-    - Stemseparasjon (f.eks. Spleeter, integrert i Logic Pro og FL Studio)  
-    - "Tekst til ferdige låter"-tjenester (f.eks. Suno)
+    - Stemseparasjon (f.eks. [Spleeter](https://spleeter.online), eller integrert i Logic Pro og FL Studio)  
+    - "Tekst til ferdige låter"-tjenester (f.eks. [Suno](https://suno.com))
 
 
 
