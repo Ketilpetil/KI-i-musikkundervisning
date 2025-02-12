@@ -11,7 +11,7 @@ Rom 3520 <br><br>
 1530  - 1555<br><br>
 
 
-Internett:<br>
+Internett:<br><br>
 viken-gjest med gjestebruker 23657740<br>
 passord: 6875
  </strong>
@@ -44,7 +44,7 @@ passord: 6875
 ### Begrepsavklaringer
 
 - **KI jeg snakker om i dag**
-  - ** Generativ språkbasert KI**  
+  - **Generativ språkbasert KI**  
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
   - **Audio-/signalbasert KI**  
     *Eksempler:*  
