@@ -5,7 +5,7 @@
   <tr>
     <td style="padding: 10px; background-color: white;">
       <strong>Foredrag: Jessheim VGS, 12.02.2025 – 25 minutter <br><br>
-Rom 3520 <br><br>
+Rom 3541 <br><br>
 1430 - 1455 <br>
 1500 - 1525<br>
 1530  - 1555<br><br>
