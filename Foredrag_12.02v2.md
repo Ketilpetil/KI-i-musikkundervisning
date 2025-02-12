@@ -150,13 +150,14 @@ Kommentar:
 ## Veien videre
 
 - **Integrerte KI-løsninger:**  
-  Læremidler I musikkfaget bør inneholde KI-verktøy som hjelper elevene med å utforske musikkteori, lydanalyse og skapende prosesser. Eksempler kan være:
+  Læremidler i musikkfaget bør inneholde KI-verktøy som hjelper elevene med å utforske musikkteori, lydanalyse og skapende prosesser. Eksempler kan være:
   - Automatisert generering av noter.
   - Interaktive lydanalyser.
   - Dialog/feedback i skapende arbeid.
-  Tjenester må være gratis og tilgjengelige for alle.
-  Tjenestene må forstå aktuelle filformater (som midi osv)
+- Tjenestene må være gratis og tilgjengelige for alle.
+- Tjenestene må forstå aktuelle filformater (som midi osv)
 
+- Vi trenger verktøy som gir innsyn i kilder og metoder. 
 
 
 ## S&S
