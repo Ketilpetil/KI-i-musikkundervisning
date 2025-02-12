@@ -143,7 +143,7 @@ https://github.com/user-attachments/assets/21f8a2d5-97cb-4dc8-aba9-f87400dafc73
 
 
 Kommentar:
-- Jeg mener at Norge har ikke satset nok på programmering som tverrfaglig aktivitet. Matematikk "eier" faget i prasksis. Videre mener jeg at dette fører til fagtrengsen i matemtikk og at elevene ikke blir rustet for samfunnet de lever i. 
+- Jeg mener at Norge har ikke satset nok på programmering som tverrfaglig aktivitet. Matematikk "eier" faget i prasksis. Noe som fører til fagtrengsel i matematikk og at elevene går glipp av viktig læring. 
 - En tverrfaglig implementering av programmering vil styrke både musikkfaget og elevenes digitale ferdigheter.
 
 
