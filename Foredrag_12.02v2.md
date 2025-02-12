@@ -131,8 +131,8 @@ Kort om Musescore:
 - Brukes til å skrive noter.
 - Tidligere kunne ChatGPT lese og eksportere formater direkte fra Musescore.
 - Nå (per 11.02): ChatGPT støtter ikke direkte import/eksport fra Musescore.
-- Mulig løsning: Eksportere/importere formater (f.eks. MusicXML), men dette er tungvint og tidkrevende for elevene.
-
+- Mulig løsning: Eksportere/importere formater (f.eks. MusicXML), men dette er tungvint og tidkrevende for elevene. [oppskrift ligger her]([
+](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/musicXML_til_chatbot.md)
 ## ChatGPT og programmering i musikkfaget
 
 Styrke:
