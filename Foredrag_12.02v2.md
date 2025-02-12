@@ -16,7 +16,7 @@ viken-gjest med gjestebruker 23657740<br>
 passord: 6875
  </strong>
       <hr>
-      <strong>Tema:</strong> Praktiske erfaringer med KI i musikklinjefag.<br><br>
+      <strong>Tema:</strong> Erfaringer med KI i musikklinjefag.<br><br>
       <strong>Eksperimenter underveis:</strong> Klikk på lenkene og følg oppskriftene.<br><br>
 
 
