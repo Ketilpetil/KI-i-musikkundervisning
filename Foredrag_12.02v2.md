@@ -4,15 +4,15 @@
 
 >Foredrag på Jessheim VGS, 12. februar 2025. 
 Test gjerne det jeg snakker om underveis – klikk på lenkene og følg oppskriftene.
-Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting. 
+På grunn av tidsbegrensninger har jeg valgt å snakke om noen erfaringer jeg har gjort med bruken av KI i musikklinjefag. 
 
 ## Om meg
 
 **Ketil Vestrum Einarsen**  
 - Musikpedagog, underviser ved musikklinja på Jessheim MDD  
 - Halvstudert "røver" i KI med videreutdanning i programmering og KI  
-- Teknologi- og musikkentusiast med interesse for å videreutvikle undervisningen  
-- Teknologioptimist, men kritisk til "Big Data"  
+- Teknologioptimist, men kritisk til "Big Data"
+- Bruker KI mye, fra å skape egen musikk til å effektivisere arbeidet på jobb
 
 ---
 
@@ -20,7 +20,7 @@ Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting.
 
 ### Begrepsavklaringer
 
-- **KI jeg snakker om 
+- **KI jeg snakker om**
   - **Del 1 – Generativ språkbasert KI**  
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
   - **Del 2 – Audio-/signalbasert KI**  
@@ -65,9 +65,10 @@ Gå til [GPTs](https://chatgpt.com/gpts) for å finne ut mer om hvordan du kan l
 
 ### ASCII-noter
 
-- **Bruksområde:** Praktisk for å vise hvordan en skala eller akkord ser ut med enkle ASCII-symboler.
-- **Utfordring:** ChatGPT (spesielt gratisversjonen) kan generere feil. Dette ble i praksis ubrukelig i undervisning. 
-- **Læringsutbytte:** Elevene fikk se begrensningene til ChatGPT. 
+- **Bruksområde:** Praktisk for å vise hvordan en skal eller akkord ser ut med enkle ASCII-symboler.
+- **Fremgangsmåte:** Elevene limte inn tekstprompter til chatgpt for å få ChatGPT til å vise en grafisk fremstilling av noter. Du kan finne promptene [her]. 
+- **Utfordring:** ChatGPT (spesielt gratisversjonen) svarte feil. Dette ble i praksis ubrukelig i undervisning. 
+- **Læringsutbytte:** Elevene fikk se begrensningene til ChatGPT og de fikk muligens styrket digital kompetanse. 
 
 
 #### Eksempel (kodeblokk):
@@ -97,7 +98,7 @@ Eksempel:
 Hvordan det fungerer:
 - ChatGPT genererer koden.
 - Elevene limer koden inn i en online editor (f.eks. hacklily).
-- Dette testes sammen med noen interesserte elever – responsen er lovende!
+- Dette testes sammen med noen interesserte elever – responsen er lovende, det ser ut til å fungere. 
 
 ## Musescore
 
@@ -112,16 +113,17 @@ Kort om Musescore:
 Styrke:
 - ChatGPT er bra på programmering – også innen musikkprogrammeringsspråk som Sonic Pi.
 - Eksempel: Genererte kodesnutter i Sonic Pi. Selv om låtene ikke alltid er fantastiske, gir de innsikt i prosessen og rom for læring og kvalitetskontroll.
-
-Kommentar:
-- Norge har ikke satset nok på tverrfaglig programmering i musikkfaget, da andre fag (som matematikk) har fått mest fokus.
-- En bedre forståelse av programmering vil styrke både musikkfaget og elevenes digitale ferdigheter.
-
+- Vanskelig å finne plass til å gjøre dette på grunn av fagtrengsel. 
 
 https://github.com/user-attachments/assets/21f8a2d5-97cb-4dc8-aba9-f87400dafc73
 
 
 - [Koden finner du her](https://github.com/Ketilpetil/KI_i_musikkundervisning/blob/main/Chatgpt_sonic_pi.md)
+
+
+Kommentar:
+- Jeg mener at Norge har ikke satset nok på programmering som tverrfaglig aktivitet. Matematikk "eier" faget i prasksis. Videre mener jeg at dette fører til fagtrengsen i matemtikk og at elevene ikke blir rustet for samfunnet de lever i. 
+- En tverrfaglig implementering av programmering vil styrke både musikkfaget og elevenes digitale ferdigheter.
 
 
 ## Veien videre
