@@ -48,11 +48,13 @@ Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting.
 
 ## Erfaringer fra undervisningen
 
-### Bestefars julesangbot
+### Bestefar Boomers Julesangmentor
+![image](https://github.com/user-attachments/assets/056fbc00-1bd6-43a1-96c3-7466e7b5b8c6)
 
-- **Konsept:** Elevene skulle lage en "julesang for boomers" med hjelp av en ChatGPT-basert bot.
+- **Konsept:** Elevene skulle lage en "julesang for boomers" med hjelp av en ChatGPT-basert bot. 
+Gå til [GPTs](https://chatgpt.com/gpts) for å finne ut mer om hvordan du kan lage boter selv. 
 - **Fremgangsmåte:**  
-  - Elevene skrev inn kilder, kompetansemål og atferdsregler.  
+  - Jeg skrev skrev inn kilder, kompetansemål og atferdsregler.  
   - ChatGPT ga råd om sanginnhold, målgruppe og relevant musikkteori.
 - **Resultat:** Vellykket, men begrenset av tjenestetilgang (bare betalende brukere har full funksjonalitet).  
   - Løsningen: Elevene måtte låne min datamaskin for å stille spørsmål – noe som ikke er en langsiktig løsning.
@@ -102,19 +104,24 @@ Hvordan det fungerer:
 Kort om Musescore:
 - Brukes til å skrive noter.
 - Tidligere kunne ChatGPT lese og eksportere formater direkte fra Musescore.
-- Nå (per 11.02): ChatGPT støtter ikke direkte eksport fra Musescore.
+- Nå (per 11.02): ChatGPT støtter ikke direkte import/eksport fra Musescore.
 - Mulig løsning: Eksportere/importere formater (f.eks. MusicXML), men dette er tungvint og tidkrevende for elevene.
 
 ## ChatGPT og programmering i musikkfaget
 
 Styrke:
-- ChatGPT er svært dyktig på programmering – også innen musikkprogrammeringsspråk som Sonic Pi.
+- ChatGPT er bra på programmering – også innen musikkprogrammeringsspråk som Sonic Pi.
 - Eksempel: Genererte kodesnutter i Sonic Pi. Selv om låtene ikke alltid er fantastiske, gir de innsikt i prosessen og rom for læring og kvalitetskontroll.
 
 Kommentar:
 - Norge har ikke satset nok på tverrfaglig programmering i musikkfaget, da andre fag (som matematikk) har fått mest fokus.
 - En bedre forståelse av programmering vil styrke både musikkfaget og elevenes digitale ferdigheter.
-- [Les mer om Sonic Pi-eksempelet her](https://github.com/Ketilpetil/KI_i_musikkundervisning/blob/main/Chatgpt_sonic_pi.md)
+
+
+https://github.com/user-attachments/assets/21f8a2d5-97cb-4dc8-aba9-f87400dafc73
+
+
+- [Koden finner du her](https://github.com/Ketilpetil/KI_i_musikkundervisning/blob/main/Chatgpt_sonic_pi.md)
 
 
 ## Veien videre
@@ -124,7 +131,8 @@ Kommentar:
   - Automatisert generering av noter.
   - Interaktive lydanalyser.
   - Dialog/feedback i skapende arbeid.
-  - Tjenester må være tilgjengelige for alle. 
+  Tjenester må være gratis og tilgjengelige  for alle.
+  Tjenestene må forstå aktuelle filformater (som midi osv)
 
 
 ## S&S
