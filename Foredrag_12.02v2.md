@@ -56,7 +56,7 @@ passord: 6875
 ## Elevenes bruk av KI
 
 - **Generativ språkbasert KI:**  
-  - De fleste bruker ChatGPT (ofte gratisversjonen).  
+  - De aller fleste bruker gratisversjonen av ChatGPT.  
   - Enkelte benytter også NDLAs løsning.
 
 - **KI i praktiske fag på musikklinja:**  
