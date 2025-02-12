@@ -110,7 +110,7 @@ Ekstralinje (Ledger line) under notestaven:
 ```
 ## LilyPond
 
-Kort om LilyPond: Et kraftig verktøy for notasjon i tekstformat.
+Kort om LilyPond: Tekstverktøy for notasjon i tekstformat. 
 
 Eksempel:
 ``` "Vis meg noter for en Fiss-dorisk skala i LilyPond-format. Jeg vil ha selve koden jeg kan lime inn i [hacklily](https://www.hacklily.org)```
