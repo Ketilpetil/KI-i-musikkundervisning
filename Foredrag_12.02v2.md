@@ -110,8 +110,7 @@ Ekstralinje (Ledger line) under notestaven:
 ```
 ## LilyPond
 
-Kort om LilyPond: Tekstverktøy for notasjon i tekstformat. 
-
+Kort om LilyPond: Tekstverktøy for notasjon i tekstformat. Chatbotene kan eksportere og importere i lilypond. Elevene kan selv konvertere tekst til noter. 
 Eksempel:
 ``` "Vis meg noter for en Fiss-dorisk skala i LilyPond-format. Jeg vil ha selve koden jeg kan lime inn i [hacklily](https://www.hacklily.org)```
 
