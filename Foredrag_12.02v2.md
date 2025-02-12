@@ -133,7 +133,9 @@ Kort om Musescore:
 Styrke:
 - ChatGPT er bra på programmering – også innen musikkprogrammeringsspråk som Sonic Pi.
 - Eksempel: Genererte kodesnutter i Sonic Pi. Selv om låtene ikke alltid er fantastiske, gir de innsikt i prosessen og rom for læring og kvalitetskontroll.
-- Vanskelig å finne plass til å gjøre dette på grunn av fagtrengsel. 
+
+Svakheter: 
+- Vanskelig å finne plass til å gjøre dette på grunn av fagtrengsel og hva som står i kompetansemålene. 
 
 https://github.com/user-attachments/assets/21f8a2d5-97cb-4dc8-aba9-f87400dafc73
 
