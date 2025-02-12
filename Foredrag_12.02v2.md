@@ -1,5 +1,5 @@
 # KI på Musikklinja
-
+# GÅ TIL https://urlr.me/qZaKXu
 ---
 <table style="border: 1px solid #ccc; border-collapse: collapse; width:100%;">
   <tr>
