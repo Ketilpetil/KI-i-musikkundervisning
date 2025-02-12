@@ -46,6 +46,9 @@ passord: 6875
     - Stemseparasjon (f.eks. [Spleeter](https://spleeter.online), eller integrert i Logic Pro og FL Studio)  
     - "Tekst til ferdige låter"-tjenester (f.eks. [Suno](https://suno.com))
 
+[Plandagsangen](https://suno.com/song/75a3bc65-c218-4b9c-9a40-02bf6fa83258)
+
+
 
 
 ---
