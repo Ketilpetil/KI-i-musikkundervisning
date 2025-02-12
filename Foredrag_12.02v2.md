@@ -4,7 +4,7 @@
 <table style="border: 1px solid #ccc; border-collapse: collapse; width:100%;">
   <tr>
     <td style="padding: 10px; background-color: white;">
-      <strong> Jessheim VGS, 12.02.2025 – 25 minutter <br><br>
+      <strong> Jessheim VGS, 12.02.2025  <br><br>
 Rom 3541 <br><br>
 1430 - 1455 <br>
 1500 - 1525<br>
