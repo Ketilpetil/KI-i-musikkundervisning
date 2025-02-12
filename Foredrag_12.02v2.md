@@ -53,7 +53,7 @@ passord: 6875
 
 ---
 
-## Elevenes bruk av KI i i mine fag
+## Elevenes bruk av KI i i mine fage[^1]
 
 - **Generativ språkbasert KI:**  
   - De aller fleste bruker gratisversjonen av ChatGPT.  
@@ -63,6 +63,11 @@ passord: 6875
   - Bruken er generelt lav sammenliknet med andre fag. Men KI brukes i forskjellige former: 
     - **Stemseparasjon:** Elevene lager egne versjoner, for eksempel uten vokal, til øving eller fremføring. Noen elever bruker også dette til sampling. 
     - **Tekstskriving med ChatGPT:** Spesielt i komposisjonsoppgaver når tiden er knapp.
+
+
+
+[^1]: Egne anekdotiske observasjoner med musikkelever på Musikklinja ved Jessheim. 
+
 
 ---
 
