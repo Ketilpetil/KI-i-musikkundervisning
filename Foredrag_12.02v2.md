@@ -20,14 +20,15 @@ Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting.
 
 ### Begrepsavklaringer
 
-- **Deep Learning** (Goodfellow et al., 2016) danner grunnlaget for mange KI-tjenester.
-- Vi kan dele KI i to hovedkategorier:
+- **KI jeg snakker om 
   - **Del 1 – Generativ språkbasert KI**  
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
   - **Del 2 – Audio-/signalbasert KI**  
     *Eksempler:*  
     - Stemseparasjon (f.eks. Spleeter, integrert i Logic Pro og FL Studio)  
     - "Tekst til ferdige låter"-tjenester (f.eks. Suno)
+
+
 
 ---
 
@@ -37,8 +38,8 @@ Siden vi kun har 25 minutter, har jeg valgt å fokusere på noen få ting.
   - De fleste bruker ChatGPT (ofte gratisversjonen).  
   - Enkelte benytter også NDLAs løsning.
 
-- **KI i praktiske fag:**  
-  - Bruken er generelt lav, men enkelte elever eksperimenterer med:
+- **KI i praktiske fag på musikklinja:**  
+  - Bruken er generelt lav sammenliknet med andre fag. Men KI brukes i forskjellige former: 
     - **Stemseparasjon:** Fjerner vokal fra spor for å bruke originalmusikk til øving eller fremføring.  
       *NB:* Finnes også som funksjon i programmer som Logic og FL Studio.
     - **Tekstskriving med ChatGPT:** Spesielt i komposisjonsoppgaver når tiden er knapp.
@@ -119,10 +120,11 @@ Kommentar:
 ## Veien videre
 
 - **Integrerte KI-løsninger:**  
-  Læremidler bør inneholde KI-verktøy som hjelper elevene med å utforske musikkteori, lydanalyse og skapende prosesser. Eksempler kan være:
+  Læremidler I musikkfaget bør inneholde KI-verktøy som hjelper elevene med å utforske musikkteori, lydanalyse og skapende prosesser. Eksempler kan være:
   - Automatisert generering av noter.
   - Interaktive lydanalyser.
-  - Dynamisk feedback under komposisjonsprosesser.
+  - Dialog/feedback i skapende arbeid.
+  - Tjenester må være tilgjengelige for alle. 
 
 
 ## S&S
