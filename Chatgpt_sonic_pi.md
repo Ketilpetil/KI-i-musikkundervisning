@@ -1,3 +1,9 @@
+#ChatGPT programmerer musikk
+
+
+Sonic Pi er et programmeringsspråk laget for undervisning og kan lastes ned [her](https://sonic-pi.net)
+Her fikk ChatGPD (versjon 4o, 10.02.2025) beskjeden: "Lag en kort technolåt i Sonic Pi".
+
 ```
 # Welcome to Sonic Pi
 
@@ -80,9 +86,9 @@ end
 ################################
 # Et eksempel på hvordan du kan styre lydbildet
 live_loop :master_fx do
-```
   with_fx :lpf, cutoff: 120 do
     sleep 8
     # Du kan legge til kode her for å justere cutoff dynamisk
   end
 end
+```
