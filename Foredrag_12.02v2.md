@@ -18,12 +18,7 @@ passord: 6875
       <hr>
       <strong>Tema:</strong> Praktiske erfaringer med KI i musikklinjefag.<br><br>
       <strong>Eksperimenter underveis:</strong> Klikk på lenkene og følg oppskriftene.<br><br>
-    <br>
-      <strong>Mitt utgangspunkt:</strong> 
 
-  &bull; Hvis vi lærere vet hva vi trenger, kan utviklerne lage verktøy som fungerer i hverdagen.
-      
-  &bull; Elevene trenger å heve sin kompetanse i digitale ferdigheter.<br><br>
 
   </tr>
 </table>
@@ -43,7 +38,7 @@ passord: 6875
 
 ### Begrepsavklaringer
 
-- **KI jeg snakker om i dag**
+- **KI-tjenester jeg snakker om i dag**
   - **Generativ språkbasert KI**  
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
   - **Audio-/signalbasert KI**  
