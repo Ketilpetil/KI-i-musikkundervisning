@@ -20,10 +20,10 @@ På grunn av tidsbegrensninger har jeg valgt å snakke om noen erfaringer jeg ha
 
 ### Begrepsavklaringer
 
-- **KI jeg snakker om**
-  - **Del 1 – Generativ språkbasert KI**  
+- **KI jeg snakker om i dag**
+  - ** Generativ språkbasert KI**  
     *Eksempel:* ChatGPT, Gemini, Perplexity osv
-  - **Del 2 – Audio-/signalbasert KI**  
+  - **Audio-/signalbasert KI**  
     *Eksempler:*  
     - Stemseparasjon (f.eks. Spleeter, integrert i Logic Pro og FL Studio)  
     - "Tekst til ferdige låter"-tjenester (f.eks. Suno)
@@ -98,7 +98,8 @@ Eksempel:
 Hvordan det fungerer:
 - ChatGPT genererer koden.
 - Elevene limer koden inn i en online editor (f.eks. hacklily).
-- Dette testes sammen med noen interesserte elever – responsen er lovende, det ser ut til å fungere. 
+- Dette testes sammen med noen interesserte elever – responsen er lovende, det ser ut til å fungere.
+- Jeg har nettopp begynt å teste ut dette med NDLAs praterobot. Last opp denne fila [her](https://ndla-ki.no/prateroboter/apne-oppsett/)
 
 ## Musescore
 
