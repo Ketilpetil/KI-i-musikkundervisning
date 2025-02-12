@@ -98,8 +98,8 @@ Eksempel:
 Hvordan det fungerer:
 - ChatGPT genererer koden.
 - Elevene limer koden inn i en online editor (f.eks. hacklily).
-- Dette testes sammen med noen interesserte elever – responsen er lovende, det ser ut til å fungere.
-- Jeg har nettopp begynt å teste ut dette med NDLAs praterobot. Last opp denne fila [her](https://ndla-ki.no/prateroboter/apne-oppsett/)
+- Dette testes sammen med noen interesserte elever. Test gjerne ut selv og kom med tilbakemeldinger. 
+- Jeg har nettopp begynt å teste ut dette med NDLAs praterobot. Last opp [denne fila](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/Visning%20av%20noter-ndla-praterobot.json) [her](https://ndla-ki.no/prateroboter/apne-oppsett/). 
 
 ## Musescore
 
