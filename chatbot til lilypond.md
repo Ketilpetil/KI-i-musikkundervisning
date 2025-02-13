@@ -19,7 +19,7 @@ Jeg lurer på........
 2. Trykk på "åpne oppsett" og last opp [denne fila](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/Visning%20av%20noter-ndla-praterobot.json)
 3. Trykk på opprett robot
 
-Svarer roboten feil? Ta [kontakt med meg](mailto:ketile@afk.no) så jeg kan endre innholdet i tekstprompt. 
+Svarer roboten feil? Ta [kontakt med meg](mailto:ketile@afk.no) så jeg kan endre innholdet i tekstprompten. 
 
 
 
