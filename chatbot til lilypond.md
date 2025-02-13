@@ -1,10 +1,24 @@
-LilyPond
+# Hvordan få chatboter til å vise noter
 
-Kort om LilyPond: Tekstverktøy for notasjon i tekstformat. Chatbotene kan eksportere og importere i lilypond. Elevene kan selv konvertere tekst til noter. Eksempel:  "Vis meg noter for en Fiss-dorisk skala i LilyPond-format. Jeg vil ha selve koden jeg kan lime inn i [hacklily](https://www.hacklily.org)
+LilyPond: Tekstverktøy for notasjon i tekstformat. Chatbotene kan eksportere og importere i lilypond. Du kan kopiere lilypondkoden inn på et nettsted som komverterer dette til noter.
 
-Hvordan det fungerer:
 
-ChatGPT genererer koden.
-Elevene limer koden inn i en online editor (f.eks. hacklily).
-Dette testes sammen med noen interesserte elever. Test gjerne ut selv og kom med tilbakemeldinger.
-Jeg har nettopp begynt å teste ut dette med NDLAs praterobot. Last opp denne fila her.
+
+Kopier koden under og lim den inn i dialog med en chatbot. 
+```
+Jeg lurer på........ 
+
+ Jeg vil ha selve koden i Lilypondformat jeg kan lime inn i [hacklily](https://www.hacklily.org)
+
+
+```
+
+# NDLA-praterobot + lilypond
+
+1. Last ned denne fila
+2. Gå til "opprett robot" og last opp fila. 
+3. Trykk på opprett robot
+
+
+
+
