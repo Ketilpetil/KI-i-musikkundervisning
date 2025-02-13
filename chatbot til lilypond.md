@@ -15,8 +15,8 @@ Jeg lurer på........
 
 # NDLA-praterobot + lilypond
 
-1. Last ned denne fila
-2. Gå til "opprett robot" og last opp fila. 
+1. Gå til [denne siden](https://ndla-ki.no/prateroboter/apne-oppsett/)
+2. Trykk på "åpne oppsett" og last opp denne fila.  
 3. Trykk på opprett robot
 
 
