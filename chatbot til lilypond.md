@@ -16,8 +16,11 @@ Jeg lurer på........
 # NDLA-praterobot + lilypond
 
 1. Gå til [denne siden](https://ndla-ki.no/prateroboter/apne-oppsett/)
-2. Trykk på "åpne oppsett" og last opp denne fila.  
+2. Trykk på "åpne oppsett" og last opp [denne fila](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/Visning%20av%20noter-ndla-praterobot.json)
 3. Trykk på opprett robot
+
+Svarer roboten feil? Ta [kontakt med meg](ketile@afk.no) så jeg kan endre innholdet i tekstprompt. 
+
 
 
 
