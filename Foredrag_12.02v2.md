@@ -174,7 +174,7 @@ Kommentar:
 
 ## BONUS
 
-Hvis vi rekker hører på vi to forskjellige eksempler med KI brukt i ny musikk. Hvis vi ikke rekker kan du sjekke det ut [her](https://open.spotify.com/playlist/1oUu9jpR4ShLU1cc2ExF9t?si=f0dafe742e6d4791) 
+Hvis vi rekker hører på vi to forskjellige eksempler med KI brukt i ny musikk. Hvis vi ikke rekker kan du sjekke det ut ]her](https://open.spotify.com/playlist/1oUu9jpR4ShLU1cc2ExF9t?si=f0dafe742e6d4791) 
 
 
 
