@@ -8,7 +8,16 @@ Kopier koden under og lim den inn i dialog med en chatbot.
 ```
 Jeg lurer på........ 
 
- Jeg vil ha selve koden i Lilypondformat jeg kan lime inn i [hacklily](https://www.hacklily.org)
+Jeg vil ha selve koden i LilyPond-format jeg kan lime inn i hacklily.
+Bruk LilyPond versjon 2.22.0.
+Akkorder skal alltid være stablet i terser, med grunntonen nederst.
+Hvis jeg ber om en firklang, skal du inkludere grunntonen, ters, kvint og septim.
+Hvis jeg ber om en treklang, skal du inkludere grunntonen, ters og kvint.
+Hvis akkorden er dur, bruk store terser.
+Hvis akkorden er moll, bruk små terser.
+Hvis akkorden er en dominant- eller maj7-akkord, legg til en stor septim for maj7 og en liten septim for dominant7.
+Sørg for at notene vises naturlig i standard oktavområde.
+
 
 
 ```
