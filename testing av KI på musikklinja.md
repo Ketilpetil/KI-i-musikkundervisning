@@ -15,6 +15,9 @@ Gå til [GPTs](https://chatgpt.com/gpts) for å finne ut mer om hvordan du kan l
 - **Resultat:** Vellykket, men begrenset av tjenestetilgang (bare betalende brukere har full funksjonalitet).  
   - Løsningen: Elevene måtte låne min datamaskin for å stille spørsmål – noe som ikke er en langsiktig løsning.
 
+
+Kan ikke brukes på grunn av at tjenesten ikke er tilgjengelig. 
+
 ---
 
 ## ChatGPT og grafisk fremstilling av musikk
@@ -44,6 +47,9 @@ Ekstralinje (Ledger line) under notestaven:
                   ^
                   C  (Middle C)
 ```
+
+Kommentar 13.02.2025: Kan ikke brukes på grunn av kvaliteten på svarene til chatbotene
+
 ## LilyPond
 
 Kort om LilyPond: Tekstverktøy for notasjon i tekstformat. Chatbotene kan eksportere og importere i lilypond. Elevene kan selv konvertere tekst til noter. 
@@ -56,14 +62,22 @@ Hvordan det fungerer:
 - Dette testes sammen med noen interesserte elever. Test gjerne ut selv og kom med tilbakemeldinger. 
 - Jeg har nettopp begynt å teste ut dette med NDLAs praterobot. Last opp [denne fila](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/Visning%20av%20noter-ndla-praterobot.json) [her](https://ndla-ki.no/prateroboter/apne-oppsett/). 
 
+Kommentar 13.02.2025: Lovende, men noen problemer knyttet til versjoner av lilypond og syntax. Kan kanskje løses med beskjeder til chatbotene. 
+
+
 ## Musescore
 
 Kort om Musescore:
 - Brukes til å skrive noter.
 - Tidligere kunne ChatGPT lese og eksportere formater direkte fra Musescore.
 - Nå (per 11.02): ChatGPT støtter ikke direkte import/eksport fra Musescore.
-- Mulig løsning: Eksportere/importere formater (f.eks. MusicXML), men dette er tungvint og tidkrevende for elevene. [oppskrift ligger her](
-](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/musicXML_til_chatbot.md)
+- Mulig løsning: Eksportere/importere formater (f.eks. MusicXML), men dette er tungvint og tidkrevende for elevene. [oppskrift ligger her](https://github.com/Ketilpetil/KI-i-musikkundervisning/blob/main/musicXML_til_chatbot.md)
+
+Kommentar 13.02.2025:
+Fungerer bra, men begrensninger på antall tegn i gratistjenestene kan være en potensiell hindring. Elever skal teste. 
+Tungvint løsning, leter etter en bedre løsning for å få ned antall steps. 
+
+
 ## ChatGPT og programmering i musikkfaget
 
 Styrke:
