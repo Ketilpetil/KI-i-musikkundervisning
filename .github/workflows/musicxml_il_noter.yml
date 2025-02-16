@@ -1,10 +1,11 @@
-name: Run MusicXML to Notes Script
+name: Convert MusicXML to Notes
 
 on:
-  push:
-    paths:
-      - '**.musicxml'
   workflow_dispatch:
+    inputs:
+      file_path:
+        description: 'Path to the MusicXML file'
+        required: true
 
 jobs:
   run-script:
@@ -24,8 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install music21
       
-      - name: Run MusicXML script
+      - name: Convert MusicXML to SVG
         run: |
-          for file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} -- '*.musicxml'); do
-            python script.py "$file"
-          done
+          python -c "from music21 import converter; score = converter.parse('${{ github.event.inputs.file_path }}'); score.write('musicxml.svg', fp='score.svg')"
+      
+      - name: Upload score SVG
+        uses: actions/upload-artifact@v3
+        with:
+          name: score_svg
+          path: score.svg
